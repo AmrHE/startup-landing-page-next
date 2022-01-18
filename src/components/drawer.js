@@ -25,7 +25,7 @@ export default function Drawer({
 				width={width}
 				placement={placement}
 				handler={false}
-				lelev={null} //TODO CHECK THE SIDE SCROLL ANIMATION
+				level={null}
 				duration={"0.4s"}
 				{...props}
 			>
